@@ -572,3 +572,162 @@ html {
 
 }
 
+
+@media (max-width: 600px) {
+
+    .hero {
+        background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(images/hero.jpg);
+        
+    }
+
+    .inner-container {
+        max-width: 600px;
+        margin: 10px;
+    
+    }
+
+    .hero-title {
+        font-size: 45px;
+        
+    }
+
+    .section-title {
+        font-size: 24px;
+            
+    }
+
+    .benifits {
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .benifit {
+        width: 100%;
+            
+    }
+
+
+    .rates {
+        flex-direction: column;
+        align-items: center;
+    
+    }
+
+    .rate {
+        width: 90%;
+
+    }
+
+    .inner-container-footer {
+        flex-direction: column;
+        justify-content: space-evenly;
+    
+    }
+
+    .about-us-title {
+        font-size: 18px;
+            
+    }
+
+    .about-us-content {
+        display: flex;
+            
+    }
+
+   .reviews {
+        align-items: flex-start;
+        margin-left: 10px;
+        margin-right: 10px;
+
+   }
+
+    .review {
+        width: 100%;
+        
+    }
+
+    
+
+    .section_inner_containers {
+        max-width: 600px;
+                
+    }
+
+    .about-us {
+        display: flex;
+        max-width: 600px;
+        margin-top: 50px;
+        color: #1c1917;
+        font-size: 16px;
+        font-weight: 400;
+    
+    }
+    
+    .about-us-content {
+        display: block;
+        max-width: 600px;
+        color: #1c1917;
+        font-size: 16px;
+        font-weight: 400;
+    
+    }
+    
+    .about-us-title {
+        display: block;
+        margin-bottom: 50px;
+        color: #1c1917;
+        font-size: 30px;
+        font-weight: 700;
+    
+    }
+    
+    .about-us-text {
+        margin-top: 20px;
+        line-height: 20px;
+        color: #44403c;
+        display: block;
+        font-size: 16px;
+        font-weight: 400;
+    
+    }
+    
+    .about-us-image {
+        width: 500px;
+        margin-left: 20px;
+        display: block;
+    
+    }
+
+    .section_orange {
+        max-width: 600px;
+        padding-top: 150px;
+                    
+    }
+    
+    .lesson-form {
+        font-size: 16px;
+                
+    }
+    
+  
+    
+    .button-large2 {
+        height: 50px;
+        padding: 8px 32px;
+        font-size: 16px;
+       
+    
+    }
+    
+    
+    
+    
+
+
+
+
+
+
+}
+
